@@ -7,5 +7,6 @@
 - 💡 I have a particular fondness for crafting I/O Bound applications, where the art of data input and output optimization truly shines.
 - ⚽ Proudly Brazilian, bringing a creative perspective to the tech world!
 - 🔍 Intrigued by the world of **reverse engineering** and **malware analysis**, delving into the mysteries of code and security.
+- 🎵 My go-to jam is "Awake and Alive" by Skillet, it's where I find inspiration and unwind.
 
 **Happy coding!** 🚀🌈🌟
