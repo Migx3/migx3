@@ -15,7 +15,7 @@
 
 Connect with me on other platforms:
 
-- Discord ID: 359429956234641428
+- Discord: lcly
 - [Twitter](https://x.com/lcly__)
 
 **Happy coding!** 🚀🌈🌟
