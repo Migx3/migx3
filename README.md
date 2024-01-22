@@ -1,7 +1,7 @@
 # 👋 Hey!
 
 ## 🔧 Technologies & Tools
-- **Languages:** Rust, Java, C, Assembly AMD64
+- **Languages:** Rust, Java, C, Assembly AMD64, SQL
 - **Databases:** PostgreSQL, MySQL, MariaDB, MongoDB
 - **Tools & Platforms:** Docker, Postman, NASM, QEMU, GNU/Linux
 
