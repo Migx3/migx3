@@ -21,9 +21,6 @@ Having fun with the Windows API
 - Exploring advanced concepts in system programming
 - Mastering web development techniques
 
-## Let's Collaborate!
-- Connect with me on Discord/Twitter to discuss projects, brainstorm ideas, or just geek out about coding and tech.
-
 ## 📫 How to Reach Me
 
 Feel free to reach out through [lcly@duck.com](mailto:lcly@duckcom).
