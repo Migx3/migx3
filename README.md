@@ -26,7 +26,6 @@ Having fun with the Windows API
 Feel free to reach out through [lcly@duck.com](mailto:lcly@duckcom).
 
 
-## PGP public key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
